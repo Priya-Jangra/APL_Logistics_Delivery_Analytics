@@ -1,4 +1,3 @@
-# APL_Logistics_Delivery_Analytics
 # APL Logistics Delivery Dashboard | Power BI
 
 ## Project Overview
